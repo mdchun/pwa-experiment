@@ -13,5 +13,21 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "一个PWA应用尝试 ## start **create-react-app 生成一个基本的React应用程序** ``` npm install ``` ## 启动应用 ``` npm start ```",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdchun/pwa-experiment.git"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "mdchun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdchun/pwa-experiment/issues"
+  },
+  "homepage": "https://github.com/mdchun/pwa-experiment#readme"
 }

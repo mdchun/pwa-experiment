@@ -13,7 +13,7 @@ const Page = ({ title }) => (
         This is the {title} page.
       </p>
       <p>
-        <Link to="/">Home</Link>
+        <Link to="/">首页</Link>
       </p>
       <p>
         <Link to="/about">About</Link>
